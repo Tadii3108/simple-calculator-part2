@@ -1,5 +1,3 @@
-// Tests
-
 var {calculator} = require('../src/simpleCalculator');
 var answer = new calculator;
 

@@ -1,5 +1,3 @@
-// Functions
-
 class calculator {
   construtor () {
     this.lasto = 0;
